@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this pipeline or derived feature tables, please cite this software and the PhysioNet CVES dataset."
+title: "Hemispheric Dissociation of Multiscale Autonomic Complexity and Cardiovagal Reserve in Chronic Ischemic Stroke (CCS 1000 Hz Pipeline)"
+version: "1.0.0"
+date-released: "2026-11-20"
+license: MIT
+authors:
+  - family-names: "Joseph"
+    given-names: "Aswin Tony"
+    email: "aswintony7@gmail.com"
+    affiliation: "Government Medical College Thiruvananthapuram, Kerala, India"
+  - family-names: "Venugopal"
+    given-names: "Rahul"
+    affiliation: "Centre for Consciousness Studies, Department of Neurophysiology, NIMHANS, Bengaluru, India"
+keywords:
+  - chronic ischemic stroke
+  - heart rate variability
+  - multiscale entropy
+  - deceleration capacity
+  - linear mixed-effects models
+  - PhysioNet CVES

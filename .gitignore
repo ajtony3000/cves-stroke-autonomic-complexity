@@ -1,0 +1,29 @@
+# Raw PhysioNet CVES binary waveforms & clinical registry (download via AWS S3)
+cves-dataset/
+*.dat
+*.hea
+subjects.csv
+
+# Large archives & optional bulk QC plots (~784 PNGs; archive on OSF/Zenodo instead)
+*.zip
+*.tar.gz
+Supplementary_QC_Plots/
+results/supplementary_qc_plots/
+
+# Python environments & caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter, Kaggle & IDE metadata
+.ipynb_checkpoints/
+.virtual_documents/
+.vscode/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
